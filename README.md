@@ -1,9 +1,14 @@
-# api documentation for  [medium-editor (v5.23.0)](http://yabwe.github.io/medium-editor/)  [![npm package](https://img.shields.io/npm/v/npmdoc-medium-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-medium-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-medium-editor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-medium-editor)
+# npmdoc-medium-editor
+
+#### api documentation for  [medium-editor (v5.23.0)](http://yabwe.github.io/medium-editor/)  [![npm package](https://img.shields.io/npm/v/npmdoc-medium-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-medium-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-medium-editor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-medium-editor)
+
 #### Medium.com WYSIWYG editor clone.
 
-[![NPM](https://nodei.co/npm/medium-editor.png?downloads=true)](https://www.npmjs.com/package/medium-editor)
+[![NPM](https://nodei.co/npm/medium-editor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/medium-editor)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-medium-editor/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-medium-editor_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-medium-editor/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-medium-editor/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-medium-editor/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-medium-editor/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-medium-editor/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-medium-editor/build/screenCapture.npmPackageListing.svg)
 
@@ -17,25 +22,20 @@
 
 {
     "author": {
-        "name": "Davi Ferreira",
-        "email": "hi@daviferreira.com"
+        "name": "Davi Ferreira"
     },
     "bugs": {
-        "url": "https://github.com/yabwe/medium-editor/issues",
-        "email": "hi@daviferreira.com"
+        "url": "https://github.com/yabwe/medium-editor/issues"
     },
     "contributors": [
         {
-            "name": "Nate Mielnik",
-            "email": "nathan@outlook.com"
+            "name": "Nate Mielnik"
         },
         {
-            "name": "Noah Chase",
-            "email": "nchase@gmail.com"
+            "name": "Noah Chase"
         },
         {
-            "name": "Jeremy Benoist",
-            "email": "jeremy.benoist@gmail.com"
+            "name": "Jeremy Benoist"
         }
     ],
     "dependencies": {},
@@ -85,28 +85,22 @@
     "main": "dist/js/medium-editor.js",
     "maintainers": [
         {
-            "name": "daviferreira",
-            "email": "hi@daviferreira.com"
+            "name": "daviferreira"
         },
         {
-            "name": "j0k3r",
-            "email": "jeremy.benoist@gmail.com"
+            "name": "j0k3r"
         },
         {
-            "name": "nchase",
-            "email": "nchase@gmail.com"
+            "name": "nchase"
         },
         {
-            "name": "nmielnik",
-            "email": "nathan@outlook.com"
+            "name": "nmielnik"
         },
         {
-            "name": "orthes",
-            "email": "orthes@gmail.com"
+            "name": "orthes"
         },
         {
-            "name": "rishijain",
-            "email": "rishi@joshsoftware.com"
+            "name": "rishijain"
         }
     ],
     "name": "medium-editor",
@@ -114,7 +108,6 @@
     "publishConfig": {
         "registry": "http://registry.npmjs.org/"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yabwe/medium-editor.git"
@@ -128,16 +121,6 @@
     "version": "5.23.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module medium-editor](#apidoc.module.medium-editor)
-
-
-
-# <a name="apidoc.module.medium-editor"></a>[module medium-editor](#apidoc.module.medium-editor)
 
 
 
